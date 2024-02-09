@@ -126,7 +126,7 @@ footer{
 
 
 
-input[type=text], select, textarea {
+input[type=text], textarea {
 	background-color: white;
   width: 100%; /* Full width */
   padding: 12px; /* Some padding */ 
@@ -149,19 +149,23 @@ input[type=email], select, textarea {
   margin-bottom: 16px; /* Bottom margin */
   }
 
+
+
 /* Style the submit button with a specific background color etc */
 input[type=submit] {
-  background-color: #04AA6D;
+  background-color: black;
   color: white;
   padding: 12px 20px;
-  border: none;
+  border: 1px solid white;
   border-radius: 4px;
   cursor: pointer;
 }
 
 /* When moving the mouse over the submit button, add a darker green color */
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: white;
+  border: 2px solid black;
+  color: black;
 }
 
 .content2{
@@ -170,7 +174,7 @@ input[type=submit]:hover {
 	background-color: #484848;
 	margin-left: 10%;
 	margin-right: 10%;
-	width: 80%;
+	width: 76%;
 	height: 521.5px;
 	margin-top: 9%;
 	border: 6px solid black;
