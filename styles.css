@@ -188,5 +188,9 @@ input[type=submit]:hover {
     	margin-left: 65.3vh;
       position: absolute;     
     }
-    
+
+body{
+	color: blue;
+}
+
 }
