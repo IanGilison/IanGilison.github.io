@@ -184,7 +184,9 @@ input[type=submit]:hover {
 
 @media (max-width: 600px) {
 
-	#resume{
-		margin-left: 10vh;
-	}
+.dropdown {
+    	margin-left: 65.3vh;
+      position: absolute;     
+    }
+    
 }
